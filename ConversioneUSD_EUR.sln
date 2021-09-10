@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversioneUSD_EUR", "ConversioneUSD_EUR\ConversioneUSD_EUR.csproj", "{00BD2019-25F0-480A-BE1C-CE667095B83B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00BD2019-25F0-480A-BE1C-CE667095B83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BD2019-25F0-480A-BE1C-CE667095B83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BD2019-25F0-480A-BE1C-CE667095B83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BD2019-25F0-480A-BE1C-CE667095B83B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E6FCD43-5AFE-421B-8C76-A0E5EFD2818A}
+	EndGlobalSection
+EndGlobal
